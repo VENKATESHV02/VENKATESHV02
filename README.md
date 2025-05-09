@@ -70,6 +70,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Venkatesh_10?theme=dark&font=Marcellus)
 
 
-![LOGESH-R-186's Stats](https://github-readme-stats.vercel.app/api?username=LOGESH-R-186&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![LOGESH-R-186's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOGESH-R-186&theme=dark&hide_border=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LOGESH-R-186&bg_color=1b181a&color=fcfcfc&line=1aa81d&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LOGESH-R-186's Stats](https://github-readme-stats.vercel.app/api?username=VENKATESHV02&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![LOGESH-R-186's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VENKATESHV02&theme=dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VENKATESHV02&bg_color=1b181a&color=fcfcfc&line=1aa81d&point=f3f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
